@@ -1,6 +1,6 @@
 public class Main {
  public static void main(String[] args) {
    System.out.println("Hello, World !") ;
-   System.out.println("Test trigger Git 123");
+   System.out.println("Test trigger Git v0.1");
    }
 }
